@@ -1,9 +1,10 @@
 
 
-
+**progress**🔥
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{qkrwndnjs1075}?pet-id=2" width="1000" height="300"/>
+  <img src="https://render.gitanimals.org/lines/{qkrwndnjs1075}?pet-id=2" width="600" height="200"/>
 </a>
+
     
 
 
