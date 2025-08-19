@@ -1,6 +1,6 @@
 
 
-**progress**🔥
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/qkrwndnjs1075?pet-id=625199397123899845"
@@ -15,7 +15,6 @@
 <br/>
 <br/>
 
-## About Me / 자기 소개
 
 Hello, I'm Joowon Park, currently exploring the field of BE.<br>
 I am committed to my work with a strong sense of responsibility and a spirit of challenge.<br>
